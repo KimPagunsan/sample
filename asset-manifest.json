@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.4275ff91.css",
-    "main.js": "/static/js/main.3adbd075.js",
-    "index.html": "/index.html",
-    "main.4275ff91.css.map": "/static/css/main.4275ff91.css.map",
-    "main.3adbd075.js.map": "/static/js/main.3adbd075.js.map"
+    "main.css": "/KimPagunsan/sample.git/static/css/main.4275ff91.css",
+    "main.js": "/KimPagunsan/sample.git/static/js/main.3adbd075.js",
+    "index.html": "/KimPagunsan/sample.git/index.html",
+    "main.4275ff91.css.map": "/KimPagunsan/sample.git/static/css/main.4275ff91.css.map",
+    "main.3adbd075.js.map": "/KimPagunsan/sample.git/static/js/main.3adbd075.js.map"
   },
   "entrypoints": [
     "static/css/main.4275ff91.css",
